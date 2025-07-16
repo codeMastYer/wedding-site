@@ -10,10 +10,10 @@
 
 @font-face {
     font-family: 'ArtiRegular';
-    src: url('/fonts/Artimas W00 Regular.woff2') format('woff2'),
-    url('/fonts/Artimas W00 Regular.woff') format('woff'),
-    url('/fonts/Artimas W00 Regular.ttf') format('truetype'),
-    url('/fonts/Artimas W00 Regular.svg') format('svg');
+    src: url('/fonts/ArtiRegular.woff2') format('woff2'),
+    url('/fonts/ArtiRegular.woff') format('woff'),
+    url('/fonts/ArtiRegular.ttf') format('truetype'),
+    url('/fonts/ArtiRegular.svg') format('svg');
     font-weight: 200;
     font-style: oblique;
     font-display: swap;
