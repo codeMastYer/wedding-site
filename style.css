@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "ArtiRegular";
+    font-family: "ArtiRegular", "Helvetica Neue", Arial, sans-serif;
     font-weight: 200;
     font-style: oblique;
 }
